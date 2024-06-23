@@ -2,7 +2,7 @@
 
 A modern, responsive trading dashboard built with React, Tailwind CSS, and Recharts. This project provides a sleek interface for viewing market summaries, stock indices, and watchlists.
 
-![Trading Dashboard Screenshot](https://via.placeholder.com/800x400.png?text=Trading+Dashboard+Screenshot)
+![Trading Dashboard Screenshot]([https://via.placeholder.com/800x400.png?text=Trading+Dashboard+Screenshot](http://www.marketcalls.in/wp-content/uploads/2024/06/Screenshot-2024-06-23-at-9.40.41 AM.png))
 
 ## Features
 

@@ -30,7 +30,7 @@ A modern, responsive trading dashboard built with React, Tailwind CSS, and Recha
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/trading-dashboard.git
+   git clone https://github.com/marketcalls/trading-dashboard.git
    ```
 
 2. Navigate to the project directory:
